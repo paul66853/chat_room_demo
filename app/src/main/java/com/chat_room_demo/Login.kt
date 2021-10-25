@@ -49,6 +49,7 @@ class Login : AppCompatActivity() {
                 if (task.isSuccessful) {
                     //code for 登入會員
                     val intent = Intent(this@Login, MainActivity::class.java)
+                    finish()
                     startActivity(intent)
 
                 } else {
