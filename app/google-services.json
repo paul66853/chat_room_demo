@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777497313878",
+    "project_id": "chattingdemo-cb5f9",
+    "storage_bucket": "chattingdemo-cb5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777497313878:android:86ab7dd482e51089c031f7",
+        "android_client_info": {
+          "package_name": "com.chat_room_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777497313878-vrk14gfqtrp6bjavn4iefa0gjiqbppi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSCIb8cqhROh2_w5NTAvxWDgRKxswWHfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777497313878-vrk14gfqtrp6bjavn4iefa0gjiqbppi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
