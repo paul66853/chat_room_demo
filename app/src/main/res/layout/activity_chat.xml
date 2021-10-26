@@ -8,7 +8,7 @@
 
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/charRecyclerView"
+        android:id="@+id/chatRecyclerView"
         android:layout_above="@+id/linearLayout"
         android:layout_alignParentTop="true"
         android:layout_width="match_parent"
@@ -34,6 +34,7 @@
             android:layout_weight="85"/>
 
         <ImageView
+            android:id="@+id/sentButton"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_weight="20"
